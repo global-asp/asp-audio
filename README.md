@@ -3,7 +3,7 @@ This is a repository of open-licensed storybook audio from the [African Storyboo
 
 ## Languages
 
-Each subfolder in the main directory contains recordings for a different language, identified by its ISO 639-1/3 code (e.g. `en` for English, `lg` for Luganda).
+Each subfolder in the main directory contains recordings for a different language, identified by its ISO 639-1/3 code (e.g. `fr` for French, `lg` for Luganda).
 
 A full list of languages covered by this repository and their ISO 639-1/3 codes can be found [here](https://github.com/global-asp/asp-source#languages).
 
